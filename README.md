@@ -1,4 +1,4 @@
-![Movimiento Browniano](Resource\ballgob-fig08_009.jpg)
+![Movimiento Browniano](Resource/ballgob-fig08_009.jpg)
 # Movimiento Browniano Geométrico - MATLAB 🚀
 
 El método browniano, también conocido como movimiento browniano, es un modelo matemático utilizado en finanzas para describir el comportamiento aleatorio del precio de los activos financieros a lo largo del tiempo. Este modelo se basa en procesos estocásticos y supone que los cambios en el precio de un activo siguen una trayectoria continua, influenciada por factores como la volatilidad y el tiempo. Es ampliamente utilizado en la valoración de opciones y en la simulación de trayectorias de precios para evaluar riesgos y proyecciones financieras
