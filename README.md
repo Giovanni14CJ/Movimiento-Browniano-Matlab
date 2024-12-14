@@ -22,4 +22,4 @@ MATLAB ha sido desarrollado y mantenido por iniciativa del sector privado, lo qu
 ---
 +  Data set...
  -->
-Inicialmente la aplicación utilizará el archivo "Acciones_new_2024.mat" como data set; sin embargo, es posible cambiar este archivo por otro que contenga la matriz de los valores historicos de otros activos y que sea del tipo MATLAB Data. Si tienes dudas sobre esto, puedes echar un vistaso a mi repositorio a mi Quantitative-Finance-Python y buscar mi script que genera el MATLAB Data con los activos de tu preferencia con ayuda de Python.
+Inicialmente la aplicación utilizará el archivo "Acciones_new_2024.mat" como data set; sin embargo, es posible cambiar este archivo por otro que contenga la matriz de los valores historicos de otros activos y que sea del tipo MATLAB Data. Si tienes dudas sobre esto, puedes echar un vistaso a mi repositorio Quantitative-Finance-Python y buscar mi script que genera el MATLAB Data con los activos de tu preferencia con ayuda de Python.
