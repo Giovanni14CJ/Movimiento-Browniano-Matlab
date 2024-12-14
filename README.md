@@ -12,12 +12,14 @@ MATLAB ha sido desarrollado y mantenido por iniciativa del sector privado, lo qu
 
 ## Ejecución
 ---
-+  Distribución del proyecto...
+1) Ejecuta el archivo "Browniano.mlapp" para abrir la App de MatLab.
+2) Dentro de App Designer, da clic en el botón Save and run current app para ejecutar la aplicación.
+3) Selecciona el activo y el número de trayectorias que deseas silumar (estas deben ser números enteros).
+4) El programa graficará el comportamiento accionario del activo y generará el número de simulaciones que introduciste. Además, la Appa calculará el promedio de los rendimientos, desviación estandar (SD) y la diferencia logaritmica de la SD de los valores historicos de los activos.
 
 
-
-## Consideraciones adicionales
+## Importante
 ---
-+  Distribución del proyecto...
++  Data set...
  -->
-Tu ayuda es muy valiosa para mejorar el proyecto y ampliar sus funcionalidades. Siéntete libre de contribuir o revisar cualquier parte del código.
+Inicialmente la aplicación utilizará el archivo "Acciones_new_2024.mat" como data set; sin embargo, es posible cambiar este archivo por otro que contenga la matriz de los valores historicos de otros activos y que sea del tipo MATLAB Data. Si tienes dudas sobre esto, puedes echar un vistaso a mi repositorio a mi Quantitative-Finance-Python y buscar mi script que genera el MATLAB Data con los activos de tu preferencia con ayuda de Python.
